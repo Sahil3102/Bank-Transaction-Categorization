@@ -91,10 +91,3 @@ The Streamlit app allows for real-time categorization of new transaction data.
 
 3.  The application will open in your web browser. You can upload a CSV file containing `Description` and `Amount` columns to see the categorized results.
 
-## 6. Sample Outputs
-
-### Notebook: Class Distribution
-*(Add a screenshot of the class distribution bar plot from the notebook here)*
-
-### Streamlit App: Categorized Output
-*(Add a screenshot of the Streamlit app showing the categorized transaction data here)* 
